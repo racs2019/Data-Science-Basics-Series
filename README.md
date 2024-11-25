@@ -18,7 +18,7 @@ This repository contains Jupyter notebooks showcasing fundamental concepts and t
    Covers both linear regression for predictive modeling and logistic regression for binary classification tasks.
 
 5. **Single_Layer_Perceptron.ipynb**  
-   Implements a single-layer perceptron for binary classification, highlighting the fundamentals of neural networks.
+   Focuses on implementing single-layer perceptrons for binary classification, highlighting the fundamentals of neural networks. A simple multi-layer perceptron is also explored.
 
 6. **Support_Vector_Machine.ipynb**  
    Explains the Support Vector Machine (SVM) algorithm for classification and regression, with examples of hyperplane optimization.
