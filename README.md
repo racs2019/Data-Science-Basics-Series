@@ -8,20 +8,32 @@ This repository contains Jupyter notebooks showcasing fundamental concepts and t
 1. **Eigen_Faces.ipynb**  
    Demonstrates Principal Component Analysis (PCA) for dimensionality reduction, with a focus on eigenfaces for facial recognition.
 
-2. **Independent_Component_Analysis.ipynb**  
-   Implements Independent Component Analysis (ICA) to separate mixed signals into independent components, such as unmixing audio sources.
+2. **Elastic_Net.ipynb**  
+   Implements Elastic Net regularization, a combination of L1 and L2 penalties, useful for feature selection and handling multicollinearity.
 
-3. **Kalman_Filter.ipynb**  
-   Explores the Kalman Filter algorithm for state estimation in time-series data, widely used in tracking and sensor fusion.
+3. **Independent_Component_Analysis.ipynb**  
+   Explores Independent Component Analysis (ICA) to separate mixed signals into independent components, such as unmixing audio sources.
 
-4. **Regression_and_Logistic_Regression_Classification.ipynb**  
-   Covers both linear regression for predictive modeling and logistic regression for binary classification tasks.
+4. **Kalman_Filter.ipynb**  
+   Explains the Kalman Filter algorithm for state estimation in time-series data, widely used in tracking and sensor fusion.
 
-5. **Single_Layer_Perceptron.ipynb**  
+5. **Linear_Regression.ipynb**  
+   Covers linear regression for predictive modeling, emphasizing its theoretical foundation and practical applications.
+
+6. **Multinomial_Logistic_Regression_for_Ancestry_Classification.ipynb**  
+   Applies multinomial logistic regression to classify ancestry, demonstrating a supervised learning approach for categorical outputs.
+
+7. **Regression_and_Logistic_Regression_Classification.ipynb**  
+   Combines linear regression and logistic regression to highlight their respective applications in prediction and classification.
+
+8. **Ridge_Regression.ipynb**  
+   Introduces Ridge Regression, a form of regularized regression to prevent overfitting and improve model generalization.
+
+9. **Single_Layer_Perceptron.ipynb**  
    Focuses on implementing single-layer perceptrons for binary classification, highlighting the fundamentals of neural networks. A simple multi-layer perceptron is also explored.
 
-6. **Support_Vector_Machine.ipynb**  
-   Explains the Support Vector Machine (SVM) algorithm for classification and regression, with examples of hyperplane optimization.
+10. **Support_Vector_Machine.ipynb**  
+    Explores Support Vector Machines (SVMs) for classification and regression, with examples of hyperplane optimization.
 
 ## Features
 
